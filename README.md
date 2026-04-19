@@ -20,8 +20,6 @@ A comprehensive research-driven project exploring modern password hashing mechan
 * [Conclusion](#-conclusion)
 * [Future Scope](#-future-scope)
 * [Repository Structure](#-repository-structure)
-* [Contributors](#-contributors)
-* [License](#-license)
 
 ---
 
